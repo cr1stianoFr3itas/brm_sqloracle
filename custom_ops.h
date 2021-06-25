@@ -1,15 +1,11 @@
-/*******************************************************************
-*
-* Criado em: 07/06/21 
-*
-* Autor: Cristiano Freitas
-*
-* Atualizado por ultimo em: 10/06/21
-* 
-* CUST OPS
-*
-********************************************************************/
+/*
+   Dev. Cristiano Freitas
+   email: junior.brown.eda@gmail.com
+   Data de inicio do projeto: 20/05/2021
+   Data de "Final" do projeto: 13/06/2021
+   CUST OPS
 
+*/
 /*
  * This file contains the opcode definitions for the PCM API.
  */
