@@ -1,14 +1,14 @@
-/*******************************************************************
-*
-* Criado em: 07/06/21 
-*
-* Autor: Cristiano Freitas
-*
-* Atualizado por ultimo em: 08/06/21
-* 
-* CUST FIELDS 
-*
-********************************************************************/
+
+/*
+   Dev. Cristiano Freitas
+   email: junior.brown.eda@gmail.com
+   Data de inicio do projeto: 20/05/2021
+   Data de "Final" do projeto: 13/06/2021
+   CUST FIELDS
+
+*/
+
+
 
 /*
  * This file contains definitions of the field elements in the PIN API.
