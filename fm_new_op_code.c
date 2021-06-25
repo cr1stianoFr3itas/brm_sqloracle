@@ -1,14 +1,11 @@
-/*******************************************************************
-*
-* Criado em: 10/06/21 
-*
-* Autor: Cristiano Freitas
-*
-* Atualizado por ultimo em: 10/06/21
-* 
-* CREATE CLIENT NEW CODE WRITE
-*
-********************************************************************/
+/*
+   Dev. Cristiano Freitas
+   email: junior.brown.eda@gmail.com
+   Data de inicio do projeto: 20/05/2021
+   Data de "Final" do projeto: 13/06/2021
+   CREATE CLIENT NEW CODE WRITE
+*/
+
 
 #ifndef lint
 static	char	Sccs_id[] = "@(#)%Portal Version: fm_new_op_code.c:BillingVelocityInt:2:2006-Sep-05 04:27:08 %";
