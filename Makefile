@@ -1,12 +1,9 @@
 ###########
-#
-# Criado em: 07/06/21 
-#
-# Autor: Cristiano Freitas
-#
-# Atualizado por ultimo em: 08/06/21
-# 
-# MAKE FILE CREATE CLIENT / CUST CUSTOM
+#   Dev. Cristiano Freitas
+#   email: junior.brown.eda@gmail.com
+#   Data de inicio do projeto: 20/05/2021
+#   Data de "Final" do projeto: 07/06/2021 
+#   MAKE FILE CREATE CLIENT / CUST CUSTOM
 #
 ###########
 OS=linux
