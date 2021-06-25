@@ -1,14 +1,11 @@
-/*******************************************************************
-*
-* Criado em: 07/06/21 
-*
-* Autor: Cristiano Freitas
-*
-* Atualizado por ultimo em: 08/06/21
-* 
-* CUST CUSTOM MYCUSTCUSTOM
-*
-********************************************************************/
+/*
+   Dev. Cristiano Freitas
+   email: junior.brown.eda@gmail.com
+   Data de inicio do projeto: 20/05/2021
+   Data de "Final" do projeto: 13/06/2021
+   CUST CUSTOM MYCUSTCUSTOM
+*/
+
 
 #ifndef lint
 static	char	Sccs_id[] = "@(#)%Portal Version: fm_inv_pol_mycustomop.c:BillingVelocityInt:2:2006-Sep-05 04:27:08 %";
