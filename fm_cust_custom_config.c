@@ -1,14 +1,12 @@
-/*******************************************************************
-*
-* Criado em: 07/06/21 
-*
-* Autor: Cristiano Freitas
-*
-* Atualizado por ultimo em: 10/06/21
-* 
-* CUST CUSTOM CONFIG 
-*
-********************************************************************/
+/*
+   Dev. Cristiano Freitas
+   email: junior.brown.eda@gmail.com
+   Data de inicio do projeto: 20/05/2021
+   Data de "Final" do projeto: 13/06/2021
+   CUST CUSTOM CONFIG 
+*/
+
+
 
 #ifndef lint
 static  char    Sccs_id[] = "@(#)$Id: fm_cust_custom_config.c /cgbubrm_7.5.0.portalbase/1 2015/11/27 05:40:50 nishahan Exp $";
